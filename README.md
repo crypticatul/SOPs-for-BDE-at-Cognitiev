@@ -1,4 +1,4 @@
-# Standard-Operating-Procedures-SOPs-Daily-Routine-for-Business-Development-Executives-at-Cognitiev
+# SOPs for Business Development Executives at Cognitiev
 
 #### Introduction
 Welcome to Cognitiev! As a Business Development Executive, you play a crucial role in driving our growth and success. This document outlines your roles and responsibilities, as well as the daily tasks you need to perform. This SOP is designed to be easy to understand, ensuring you can perform your role effectively even in the absence of direct supervision.
