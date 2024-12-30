@@ -112,13 +112,13 @@ Welcome to Cognitiev! As a Business Development Executive, you play a crucial ro
      - Assist with tasks related to ongoing projects.
      - Collaborate with other team members.
 
-7.**End of Day Routine**
-   -**Review Progress**
+7.**End of Day Routine** 
+   -**Review Progress** 
      - Review the progress made on tasks.
-     - Outline tasks and priorities for the next day.
-   -**Reflect and Improve**
+     - Outline tasks and priorities for the next day. 
+   -**Reflect and Improve** 
      - Reflect on the day’s activities.
-     - Seek feedback from team members and supervisors.
+     - Seek feedback from team members and supervisors. 
 
 #### Conclusion
 By following these SOPs and daily tasks, you will be well-equipped to excel as a Business Development Executive at Cognitiev. Your role is vital to our growth and success, and we are confident that you will make a significant impact. Welcome to the team, and let's revolutionize AI interactions together!
